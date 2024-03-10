@@ -1,6 +1,6 @@
 # CSARCH2 S13 Group 4 Computer Components Exhibit Documentation
 
-#Group Members
+# Group Members
   - Gamboa, Rafael
   - Jocson, Nicole
   - Montenegro, Jaycee
