@@ -7,6 +7,7 @@
   - Rebano, Jaeme
   - Marco Yu
 
+# Contents of the Repository
 This repository contains the following:
 - Exhibit Video: A 10-12 minute video on YouTube (https://www.youtube.com/watch?v=NWny5vjYJnI)
 - Documentation (Picture collages):
