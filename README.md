@@ -1,4 +1,11 @@
-# CSARCH2 Computer Components Exhibit Documentation
+# CSARCH2 S13 Group 4 Computer Components Exhibit Documentation
+
+#Group Members
+  - Gamboa, Rafael
+  - Jocson, Nicole
+  - Montenegro, Jaycee
+  - Rebano, Jaeme
+  - Marco Yu
 
 This repository contains the following:
 - Exhibit Video: A 10-12 minute video on YouTube (https://www.youtube.com/watch?v=NWny5vjYJnI)
@@ -9,3 +16,6 @@ This repository contains the following:
   - Guests who visited and inquired about your exhibit
   - Flyers used during the exhibit
   - Any other gimmicks used during the exhibit
+- Exhibit Proposal
+
+  
