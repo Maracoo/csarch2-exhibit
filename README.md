@@ -1,7 +1,7 @@
 # CSARCH2 Computer Components Exhibit Documentation
 
 This repository contains the following:
-- Exhibit Video: A 10-12 minute video on YouTube (in URL)
+- Exhibit Video: A 10-12 minute video on YouTube (https://www.youtube.com/watch?v=NWny5vjYJnI)
 - Documentation (Picture collages):
   - Before the booth was set up
   - After the booth was set up
