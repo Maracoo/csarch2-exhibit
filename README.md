@@ -1,11 +1,11 @@
-# CSARCH2 S13 Group 4 Computer Components Exhibit Documentation
+# CSARCH2 S13 Group 9 Computer Components Exhibit Documentation
 
 # Group Members
   - Gamboa, Rafael
   - Jocson, Nicole
   - Montenegro, Jaycee
   - Rebano, Jaeme
-  - Marco Yu
+  - Yu, Marco
 
 # Contents of the Repository
 This repository contains the following:
